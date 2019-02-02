@@ -9,7 +9,7 @@ npm install
 npm install -g grunt-cli
 ```
 
-```
+```js
 <script src="/path/to/mousetrap.min.js"></script>
 
 <script>
